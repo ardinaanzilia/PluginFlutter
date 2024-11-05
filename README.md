@@ -6,7 +6,6 @@ A new Flutter project.
 
 
 ![screenshot](lib/footage/Screenshot%202024-11-05%20103035.png)
-![screenshot](lib/footage/Screenshot%202024-11-05%20112248.png)
 ![screenshot](lib/footage/Screenshot%202024-11-05%20112342.png)
 
 
